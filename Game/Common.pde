@@ -1,0 +1,51 @@
+/**
+Costanti globali.
+*/
+final String GAME_TITLE = "Medieval Showdown";
+final int GAME_WIDTH = 1920;
+final int GAME_HEIGHT = 1080;
+final int FRAME_RATE = 60;
+
+final String ASSET_SCHERMATACARICAMENTO = "assets/loading_screen.png";
+final String ASSET_POPULATION = "assets/population.png";
+final String ASSET_FONTMENU = "assets/fontmenu.ttf";
+final String ASSET_FONTWIN = "assets/fontwin.ttf";
+final String ASSET_FONTLIFEANDMONEY = "assets/fontlifeandmoney.ttf";
+final String ASSET_MENUBACKGROUND = "assets/background_menu.png";
+final String ASSET_BACKGROUND = "assets/background.png";
+final String ASSET_BASE = "assets/base.png";
+final String ASSET_EBASE = "assets/ebase.png";
+final String ASSET_SOLDIER1 = "assets/soldier1.png";
+final String ASSET_SOLDIER1W[] = {"assets/soldier1w1.png", "assets/soldier1w2.png", "assets/soldier1w3.png", "assets/soldier1w4.png", "assets/soldier1w5.png"};
+final String ASSET_SOLDIER1A[] = {"assets/soldier1a1.png", "assets/soldier1a2.png", "assets/soldier1a3.png", "assets/soldier1a4.png", "assets/soldier1a5.png"};
+final String ASSET_ESOLDIER1 = "assets/esoldier1.png";
+final String ASSET_ESOLDIER1W[] = {"assets/esoldier1w1.png", "assets/esoldier1w2.png", "assets/esoldier1w3.png", "assets/esoldier1w4.png", "assets/esoldier1w5.png"};
+final String ASSET_ESOLDIER1A[] = {"assets/esoldier1a1.png", "assets/esoldier1a2.png", "assets/esoldier1a3.png", "assets/esoldier1a4.png", "assets/esoldier1a5.png"};
+final String ASSET_SOUNDSOLDIER1 = "assets/soldier1_attack.mp3";
+final String ASSET_SOLDIER2 = "assets/soldier2.png";
+final String ASSET_SOLDIER2W[] = {"assets/soldier2w1.png", "assets/soldier2w2.png", "assets/soldier2w3.png", "assets/soldier2w4.png", "assets/soldier2w5.png"};
+final String ASSET_SOLDIER2A[] = {"assets/soldier2a1.png", "assets/soldier2a2.png", "assets/soldier2a3.png", "assets/soldier2a4.png", "assets/soldier2a5.png"};
+final String ASSET_ESOLDIER2 = "assets/esoldier2.png";
+final String ASSET_ESOLDIER2W[] = {"assets/esoldier2w1.png", "assets/esoldier2w2.png", "assets/esoldier2w3.png", "assets/esoldier2w4.png", "assets/esoldier2w5.png"};
+final String ASSET_ESOLDIER2A[] = {"assets/esoldier2a1.png", "assets/esoldier2a2.png", "assets/esoldier2a3.png", "assets/esoldier2a4.png", "assets/esoldier2a5.png"};
+final String ASSET_SOUNDSOLDIER2 = "assets/soldier2_attack.mp3";
+final String ASSET_SOLDIER3 = "assets/soldier3.png";
+final String ASSET_SOLDIER3W[] = {"assets/soldier3w1.png", "assets/soldier3w2.png", "assets/soldier3w3.png", "assets/soldier3w4.png", "assets/soldier3w5.png"};
+final String ASSET_SOLDIER3A[] = {"assets/soldier3a1.png", "assets/soldier3a2.png", "assets/soldier3a3.png", "assets/soldier3a4.png", "assets/soldier3a5.png"};
+final String ASSET_ESOLDIER3 = "assets/esoldier3.png";
+final String ASSET_ESOLDIER3W[] = {"assets/esoldier3w1.png", "assets/esoldier3w2.png", "assets/esoldier3w3.png", "assets/esoldier3w4.png", "assets/esoldier3w5.png"};
+final String ASSET_ESOLDIER3A[] = {"assets/esoldier3a1.png", "assets/esoldier3a2.png", "assets/esoldier3a3.png", "assets/esoldier3a4.png", "assets/esoldier3a5.png"};
+final String ASSET_SOUNDSOLDIER3 = "assets/soldier3_sound.mp3";
+final String ASSET_SOLDIER4 = "assets/soldier4.png";
+final String ASSET_SOLDIER4W[] = {"assets/soldier4w1.png", "assets/soldier4w2.png", "assets/soldier4w3.png", "assets/soldier4w4.png", "assets/soldier4w5.png"};
+final String ASSET_SOLDIER4A[] = {"assets/soldier4a1.png", "assets/soldier4a2.png", "assets/soldier4a3.png", "assets/soldier4a4.png", "assets/soldier4a5.png"};
+final String ASSET_ESOLDIER4 = "assets/esoldier4.png";
+final String ASSET_ESOLDIER4W[] = {"assets/esoldier4w1.png", "assets/esoldier4w2.png", "assets/esoldier4w3.png", "assets/esoldier4w4.png", "assets/esoldier4w5.png"};
+final String ASSET_ESOLDIER4A[] = {"assets/esoldier4a1.png", "assets/esoldier4a2.png", "assets/esoldier4a3.png", "assets/esoldier4a4.png", "assets/esoldier4a5.png"};
+final String ASSET_SOUNDSOLDIER4 = "assets/soldier4_sound.mp3";
+final String ASSET_BATTLEMUSIC = "assets/battlemusic.mp3";
+final String ASSET_MENUMUSIC = "assets/menumusic.mp3";
+final String ASSET_ERRORSOUND = "assets/errorsound.mp3";
+final String ASSET_VICTORYSOUND = "assets/victory_sound.mp3";
+final String ASSET_DEFEATSOUND = "assets/defeat_sound.mp3";
+final String ASSET_BARBIESONG = "assets/barbieSong.mp3";
